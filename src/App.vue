@@ -19,7 +19,7 @@ import SnackBar from '@/components/common/SnackBar.vue'
 
 function adaptMargin(event) {
   const mainContainer = document.getElementById('main-container')
-  mainContainer.style.marginLeft = event ? '56px' : '230px'
+  mainContainer.style.marginLeft = event ? '56px' : '330px'
 }
 </script>
 
